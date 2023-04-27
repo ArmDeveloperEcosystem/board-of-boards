@@ -4,7 +4,7 @@ These devices include one or more Arm Cortex-M cores.
 
 ## Cortex-M0+
 
-- [RaspberryPi Pico](/boards/raspberrypi-pico.md)
+- [RaspberryPi Pico](/boards/Raspberry-Pi-Foundation/raspberrypi-pico.md)
 
 ## Cortex-M4F
 

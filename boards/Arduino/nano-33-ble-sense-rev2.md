@@ -11,7 +11,7 @@ Use Cases:
 
 ## Specifications
 
-- Cortex-M4F @ 64 MHz (Nordic nRF52840 datasheet https://content.arduino.cc/assets/Nano_BLE_MCU-nRF52840_PS_v1.1.pdf)
+- Cortex-M4F @ 64 MHz ([Nordic nRF52840 datasheet](https://content.arduino.cc/assets/Nano_BLE_MCU-nRF52840_PS_v1.1.pdf))
 - 256kb on-chip SRAM, 1mb flash
 - 14 GPIO pins
 - PWM on all GPIO pins
