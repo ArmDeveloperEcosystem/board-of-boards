@@ -4,7 +4,7 @@ The following devices are suitable for AI/ML workloads either on IoT devices, PC
 
 ## Embedded
 - [RaspberryPi Pico](/boards/Raspberry-Pi-Foundation/raspberrypi-pico.md)
-- [Arduino Nano 33 BLE Sens](/boards/Arduino/nano-33-ble-sense.md)
+- [Arduino Nano 33 BLE Sense](/boards/Arduino/nano-33-ble-sense-rev2.md)
 
 ## Workstation
 

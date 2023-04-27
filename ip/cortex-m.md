@@ -8,6 +8,6 @@ These devices include one or more Arm Cortex-M cores.
 
 ## Cortex-M4F
 
-- [Arduino Nano 33 BLE Sense](/boards/Arduino/nano-33-ble-sense.md)
+- [Arduino Nano 33 BLE Sense](/boards/Arduino/nano-33-ble-sense-rev2.md)
 
 ## Cortex-M7
