@@ -13,3 +13,6 @@ These devices include one or more Arm Cortex-M cores.
 ## Cortex-M7
 
 - [NXP i.MX RT1060 and EdgeLock® SE050 Secure Element](/boards/NXP/imxrt1060.md)
+
+## Cortex-M33
+- [ST Microelectronics STM32 U5](/boards/STMicro/stm32u5.md)
