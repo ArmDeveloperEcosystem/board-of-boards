@@ -6,7 +6,7 @@ Arm IP:
 - [Cortex-M7](/ip/cortex-m.md#cortex-m7)
 
 Use Cases:
-- Example: [IoT](/use-cases/iot.md)
+- [IoT](/use-cases/iot.md)
 
 ## Specifications
 
