@@ -6,12 +6,13 @@ Arm IP:
 - [Cortex-A53](/ip/cortex-a.md) (x4)
 - [Cortex-R5F](/ip/cortex-r.md) (x2)
 - [Mali-400](/ip/mali.md) (x1)
-- [AMBA AXI4 Interconnect](/board-of-boards/ip/)
+- [AMBA AXI4 Interconnect](/ip/amba-axi.md)
 
 
 Use Cases:
-- [AI/ML](/use-cases/ai-ml.md#embedded)
-- [Real-time Industrial Control](/use-cases/)
+- [AI/ML](/use-cases/ai-ml.md)
+- [Industrial/Real-time](/use-cases/industrial-rt.md)
+- [Robotics](/use-cases/robotics.md)
 
 ## Specifications
 Board User Guide: [KV260 User Guide](https://docs.xilinx.com/r/en-US/ug1089-kv260-starter-kit)
