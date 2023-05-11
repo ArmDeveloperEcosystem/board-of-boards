@@ -7,7 +7,8 @@ The following devices are suitable for AI/ML workloads either on IoT devices, PC
 - [Arduino Nano 33 BLE Sense](/boards/Arduino/nano-33-ble-sense-rev2.md)
 
 ## Workstation
-
+- [Ampere Developer Platform](/boards/Ampere/Developer Platform.md)
 
 ## Server
 - [Ampere Altra](/boards/Ampere/AmpereAltra.md)
+- [Ampere Altra Max](/boards/Ampere/AmpereAltraMax.md)
