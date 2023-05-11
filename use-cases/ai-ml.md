@@ -10,4 +10,4 @@ The following devices are suitable for AI/ML workloads either on IoT devices, PC
 
 
 ## Server
-
+- [Ampere Altra](/boards/Ampere/AmpereAltra.md)
