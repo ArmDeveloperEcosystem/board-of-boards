@@ -13,7 +13,7 @@ The following devices are suitable for use as Servers.
 - [HPE ProLiant RL300 Gen 11](https://amperecomputing.com/reference-platforms/ampere-altra-platforms-for-modern-compute#:~:text=WiWynn-,HPE,-Mt.%20Hamilton) 1 CPU Socket; 1U; up to 128 cores
 
 ## Public Cloud Instances
-- [Oracle Cloud Infrastructure](https://www.oracle.com/cloud/compute/arm/)
+- [Oracle Cloud Infrastructure](https://docs.oracle.com/en-us/iaas/Content/Compute/References/arm.htm#start-for-free)
 - [Google Cloud](https://cloud.google.com/compute/docs/instances/create-arm-vm-instance#t2afreetrial)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/free/)
-- [Oracle Cloud](https://docs.oracle.com/en-us/iaas/Content/Compute/References/arm.htm#start-for-free)
+- [Equinix](https://deploy.equinix.com/product/servers/c3-large-arm64/)
