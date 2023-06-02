@@ -14,4 +14,6 @@ The following devices are suitable for use as Servers.
 
 ## Public Cloud Instances
 - [Oracle Cloud Infrastructure](https://www.oracle.com/cloud/compute/arm/)
-- 
+- [Google Cloud](https://cloud.google.com/compute/docs/instances/create-arm-vm-instance#t2afreetrial)
+- [Microsoft Azure](https://azure.microsoft.com/en-us/free/)
+- [Oracle Cloud](https://docs.oracle.com/en-us/iaas/Content/Compute/References/arm.htm#start-for-free)
